@@ -1,6 +1,7 @@
 # Presencia
 Presencia técnica y cultura de ingeniería en Buk.
-💙 Tech en Buk
+
+
 Construimos tecnología desde Latinoamérica para Latinoamérica 🌎
 
 No venimos a decirte que tenemos una “cultura tech increíble”.
